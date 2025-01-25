@@ -1,3 +1,3 @@
 # Flet-Login-App-with-SQLite
 
-![Image](https://github.com/user-attachments/assets/d7061493-32c1-455d-ae2d-c1cbe248a8ed)
+![Image](https://github.com/user-attachments/assets/276b08ef-1969-47e8-8ab1-d6b2609e02c5)
